@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <body>
-    <h1>App Chat</h1>
     <p>This project is a conversational system inspired by WhatsApp.</p>
     <a href="https://youtu.be/krMhFsK7aOY" target="_blank">
         <img src="./public/assets/Criação chat.gif" alt="video" width="460" height="300">
